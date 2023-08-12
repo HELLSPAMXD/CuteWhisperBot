@@ -61,7 +61,7 @@ Telegram bot for Whisper Message.
 
 ## Stats
 
-[![GitHub forks](https://img.shields.io/github/forks/StarkBotsIndustries/WhisperBot.svg?style=social&label=Fork&maxAge=25920000)](https://github.com/HELLSPAMXD/cuteWhisperBot/network/) [![GitHub stars](https://img.shields.io/github/stars/HELLSPAMXD/cuteWhisperBot.svg?style=sochttps://img.shields.io/github/stars/StarkBotsIndustries/WhisperBot.svg?style=social&label=Star&maxAge=25920000ial&label=Star&maxAge=25920000)](https://github.com/HELLSPAMXD/cuteWhisperBot/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/HELLSPAMXD/cuteWhisperBot.svg?style=social&label=Watch&maxAge=25920000)](https://github.com/HELLSPAMXD/cuteWhisperBot/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/HELLSPAMXD/cuteWhisperBot.svg?style=social&label=Fork&maxAge=25920000)](https://github.com/HELLSPAMXD/cuteWhisperBot/network/) [![GitHub stars](https://img.shields.io/github/stars/HELLSPAMXD/cuteWhisperBot.svg?style=sochttps://img.shields.io/github/stars/StarkBotsIndustries/WhisperBot.svg?style=social&label=Star&maxAge=25920000ial&label=Star&maxAge=25920000)](https://github.com/HELLSPAMXD/cuteWhisperBot/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/HELLSPAMXD/cuteWhisperBot.svg?style=social&label=Watch&maxAge=25920000)](https://github.com/HELLSPAMXD/cuteWhisperBot/watchers/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/HELLSPAMXD/cuteWhisperBot/graphs/commit-activity)
 
 ## License
