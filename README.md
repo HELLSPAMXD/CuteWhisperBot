@@ -1,18 +1,18 @@
-# Whisper Bot [@WhisperStarkBot](https://t.me/WhisperStarkBot)
+,#Whisper Bot [@CUTEWHISPERRBOT](https://t.me/CUTEWHISPERRBOT)
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/WhisperBot"><img src="https://telegra.ph/file/33af12f457b16532e1383.jpg" width="5000"></a></p>
+<p align="center"><a href="https://www.github.com/HELLSPAMXD/cuteWhisperBot"><img src="https://te.legra.ph/file/42237463240a6524511a2.jpg" width="5000"></a></p>
 
 Telegram bot for Whisper Message.
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[l
 
 ## Usage
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/WhisperBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HELLSPAMXD/cuteWhisperBot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN`.
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -26,7 +26,7 @@ Telegram bot for Whisper Message.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/WhisperBot
+   git clone https://github.com/HELLSPAMXD/cuteWhisperBot
    ```
    
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only.
@@ -61,8 +61,8 @@ Telegram bot for Whisper Message.
 
 ## Stats
 
-[![GitHub forks](https://img.shields.io/github/forks/StarkBotsIndustries/WhisperBot.svg?style=social&label=Fork&maxAge=25920000)](https://github.com/StarkBotsIndustries/WhisperBot/network/) [![GitHub stars](https://img.shields.io/github/stars/StarkBotsIndustries/WhisperBot.svg?style=social&label=Star&maxAge=25920000)](https://github.com/StarkBotsIndustries/WhisperBot/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/StarkBotsIndustries/WhisperBot.svg?style=social&label=Watch&maxAge=25920000)](https://github.com/StarkBotsIndustries/WhisperBot/watchers/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/StarkBotsIndustries/WhisperBot/graphs/commit-activity)
+[![GitHub forks](https://img.shields.io/github/forks/StarkBotsIndustries/WhisperBot.svg?style=social&label=Fork&maxAge=25920000)](https://github.com/HELLSPAMXD/cuteWhisperBot/network/) [![GitHub stars](https://img.shields.io/github/stars/HELLSPAMXD/cuteWhisperBot.svg?style=sochttps://img.shields.io/github/stars/StarkBotsIndustries/WhisperBot.svg?style=social&label=Star&maxAge=25920000ial&label=Star&maxAge=25920000)](https://github.com/HELLSPAMXD/cuteWhisperBot/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/HELLSPAMXD/cuteWhisperBot.svg?style=social&label=Watch&maxAge=25920000)](https://github.com/HELLSPAMXD/cuteWhisperBot/watchers/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/HELLSPAMXD/cuteWhisperBot/graphs/commit-activity)
 
 ## License
 
@@ -70,7 +70,7 @@ Telegram bot for Whisper Message.
 
 ## Contributing
 
-[![GitHub contributors](https://img.shields.io/github/contributors/StarkBotsIndustries/WhisperBot.svg)](https://github.com/StarkBotsIndustries/WhisperBot/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/StarkBotsIndustries/WhisperBot.svg)](https://github.com/HELLSPAMXD/cuteWhisperBot/graphs/contributors/)
 
 > Contributions are heartily accepted.
 
@@ -82,9 +82,9 @@ Telegram bot for Whisper Message.
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Channel :- [@WAJAH_U_HO](https://t.me/WAJAH_U_HO)
 
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
+Group Chat :- [@ACTIVE_24X7_CHATS](https://t.me/ACTIVE_24X7_CHATS)
 
 ## :)
 
